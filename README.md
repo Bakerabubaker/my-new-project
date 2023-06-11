@@ -3,6 +3,7 @@ Final project for the Building AI course
 
 
 # Summary
+summary
 The project aims to develop automated customer support chatbots that can help users resolve their queries and concerns quickly and efficiently. The chatbot will be designed to understand natural language input and provide appropriate responses based on knowledge and pre-defined conversations.
 
 
